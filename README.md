@@ -64,4 +64,4 @@ Le projet utilise un système de commandes en majuscule/minuscule pour activer (
 2. **Bibliothèques :** Assurez-vous d'avoir les bibliothèques **Servo.h** et **SoftwareSerial.h** installées (bien que SoftwareSerial.h soit incluse mais non utilisée dans le code actuel, elle est souvent requise pour les projets Bluetooth).  
 3. **Téléversement :** Déconnectez le module Bluetooth des broches 0 et 1, puis téléversez le code domo2.0.ino sur votre Arduino Uno.  
 4. **Connexion :** Reconnectez le module Bluetooth.  
-5. **App Mobile :** Utilisez une application de terminal série Bluetooth (comme l'application **Bluetooth RC Controller** si elle permet d'envoyer les caractères spécifiques ci-dessus) pour vous connecter au module et envoyer les commandes.
+5. **App Mobile :** Utilisez une application de terminal série Bluetooth (comme l'application **Serial Bluetooth Terminal** si elle permet d'envoyer les caractères spécifiques ci-dessus) pour vous connecter au module et envoyer les commandes.
